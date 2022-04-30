@@ -9,7 +9,7 @@
 <img src="https://cdn.discordapp.com/attachments/517397016196808705/932947997405368340/unknown.png">
 
 # İletişim
-* [Discord Sunucum](https://discord.gg/x8Uw4KTK5p)
+* [Discord Sunucum](https://discord.gg/ZS2TKFFadZ)
 * [Discord Profilim](https://discord.com/users/907246062459318323)
 * Herhangi bir hata bulmanız durumunda ya da yardım isteyeceğiniz zaman buralardan bana ulaşabilirsiniz.
 
